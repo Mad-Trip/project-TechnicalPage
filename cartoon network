@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
+    <title>Cartoon Network</title>
+  </head>
+  <body>
+    <main id="main">
+      <div class="header">
+      <h1 id="title" class="h1">CARTOON NETWORK</h1>
+      <p><i>The network that shaped your childhood</i></p>
+      </div>
+      <div id="img-div" class="image-container2">
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftierragamer.com%2Fwp-content%2Fuploads%2F2022%2F10%2Fcartoon-network-30-aniversario.jpg&f=1&nofb=1&ipt=fb59b6fcad2f86713052d82bd5c227b5c78916d1a0876a44726c345ac84df6ce&ipo=images" alt="cartoon network characters" id="image">
+        <div class="img-caption" id="img-caption">
+        <p id="tribute-info">Cartoon Network will forever live inside all of us, even though it has come to an end. Pictured above are some of the characters from some of your favorite childhood shows, how many can you name?</p>
+      </div>
+      </div>
+      <div class="image-container">
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP._tcSSf-swxIU8a5wEmASYwHaEK%26pid%3DApi&f=1&ipt=1decb403733bd6909605af0d010286ccdcb5c66ed9325cd9e16610da89e7ce2b&ipo=images" alt="futuristic family" id="image" /> 
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimgblog.interestingfacts.com%2F2022%2F10%2F5-feature.jpg&f=1&nofb=1&ipt=4bd74059ed2d839c10971ff2081d3fddd2ecec4d8258248ae3baad939f5291fd&ipo=images" alt="a bedrock family" id="image"/>
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.2-MPXSPed4R0Myc5R41rDwHaEo%26pid%3DApi&f=1&ipt=89a64019d75e68c81f6498e87e54445b52a6a46a30beab99d1cdb10ee99868b3&ipo=images" alt=" a boy and his lab" id="image"/>
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpreview.redd.it%2Fnn1ao6j2wdu41.jpg%3Fauto%3Dwebp%26s%3Daa00bc2e65b5a06104687df8e7ada4f466f12594&f=1&nofb=1&ipt=740205837acd8f0358b85c7f7cd590703aa580b73767b1a8fddd5bf850791b12&ipo=images" alt="a dog and his friends" id="image"/>
+        <img src="https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/11/The-Grim-Adventures-of-Billy-and-Mandy-Cropped.jpg?q=50&fit=crop&w=1100&h=618&dpr=1.5" alt="grim adventures of billy and mandy" id="image"/>
+        <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2020/10/ed-edd-n-eddy.jpg?q=50&fit=crop&w=1100&h=618&dpr=1.5" alt="ed, ed, and eddy" id="image"/>
+      </div>
+      <div class="link">
+      <label for="link">If you would like to take a trip back in time, and watch snipits from the past, click<a href="https://www.youtube.com/watch?v=anZO-pJKNoE" id="tribute-link" target="_blank"/> HERE! </a></label>
+      </div>
+    </main>
+  </body>
+</html>
